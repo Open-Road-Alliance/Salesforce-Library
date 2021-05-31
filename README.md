@@ -210,8 +210,8 @@ Batch requests are handled a little differently on the backend as they hit a dif
 
 ## Dependencies
 
-- JWT Library - Library that supports JWT authentication
-- Global Helpers Library - Simple library with some universal helper methods
+- [JWT Library](https://github.com/Open-Road-Alliance/JWT-Library) - Library that supports JWT authentication
+- [Global Helpers Library](https://github.com/Open-Road-Alliance/Global-Google-Script-Helpers)- Simple library with some universal helper methods
 
 ## Additional Resources
 
