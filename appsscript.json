@@ -7,14 +7,12 @@
       {
         "userSymbol": "JWT",
         "libraryId": "19Qtg9LvQn25h3tIrNJclER2s5TRmpX8QNNL9Ix0Z72o1Go3pl852_zEg",
-        "version": "0",
-        "developmentMode": true
+        "version": "7"
       },
       {
         "userSymbol": "Helpers",
         "libraryId": "1DsCgJGt-kX56V2cCf6_4Mj5oMDyzYETmqkdr-XsLvQHRfI8BEMBHFiT2",
-        "version": "0",
-        "developmentMode": true
+        "version": "12"
       }
     ]
   }
